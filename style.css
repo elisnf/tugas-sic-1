@@ -1,0 +1,39 @@
+@media screen and {min-width:600px;
+    h1 {
+        background-color: purple;
+font-size:100px;
+    }
+}
+@media screen and {max-width:1024px;
+    h1 {
+        background-color: rgb(238, 113, 113);
+font-size:150px;
+    }
+}
+body {
+    background-color: rgb(237, 220, 241);
+  }
+h1 {
+    text-align: center;
+}
+table
+{
+    text-align: center;
+}
+td{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+p {
+    color: rgb(59, 3, 59);
+}
+h1 {
+    color: rgb(59, 3, 59);
+}
+h2 {
+    color: rgb(59, 3, 59);
+}
+
+.justify {
+    text-align: center;
+}
